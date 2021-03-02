@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practice Mvp</string>
+    <string name="usename">Enter Name</string>
+    <string name="password">Enter Password</string>
+</resources>
